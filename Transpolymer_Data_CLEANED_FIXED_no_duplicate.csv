@@ -1,0 +1,285 @@
+Polymer_Name,Tensile_strength(Mpa),Ionization_Energy(eV),Electron_Affinity(eV),LogP,Refractive_Index,Molecular_Weight(g/mol),SMILES_Notation
+Polylactic Acid (PLA),60,9.2,0.2,0.79,1.5,118.08,CCC(=O)O
+Polyhydroxyalkanoates (PHA),45,9,0.18,1.03,1.6,130.17,CC(C)CC(=O)O
+Polybutylene Succinate (PBS),50,9.3,0.15,0.85,1.55,170.2,CCCC(=O)OCCO
+Starch-Based Polymer,35,8.5,0.12,-1,1.45,162.14,O=C(O)CC(=O)O
+Cellulose Acetate (CA),50,9.7,0.21,1.9,1.5,180.16,COCCOC(=O)CCO
+Lignin-Based Polymer,40,9.8,0.23,2.2,1.52,200.25,Oc1ccccc1O
+Chitosan,35,8.8,0.16,-0.5,1.47,161.16,CN(C)CC(=O)O
+Gelatin-Based Polymer,30,8.4,0.1,-0.8,1.46,150.13,CCC(N)C(=O)O
+Soy Protein Polymer,25,8.2,0.08,-0.9,1.45,144.1,NCCC(=O)O
+Polycaprolactone (PCL),45,9.1,0.14,1.3,1.47,114.14,OCCCCCCCCO
+Polyvinyl Alcohol (PVA),40,8.9,0.17,0.25,1.49,104.1,CNC(CO)CO
+Polyethylene Glycol (PEG),30,8.3,0.11,-0.5,1.45,44.05,OCCCCO
+Alginates (Alginate-Based Polymer),32,8.2,0.13,-0.6,1.42,164.18,O=C(O)COC(=O)c1ccoc(=O)c1
+Polyethylene Oxide (PEO),35,8.6,0.15,-0.2,1.48,100.1,OCCOCCO
+Hydrolyzed Keratin Polymer,25,8,0.09,-1.3,1.42,160.14,CC(C)C(N)C(=O)O
+Polyisoprene (Natural Rubber),20,8.7,0.14,2.1,1.51,68.11,C=CC=C(C)C
+Polyurethane Foam (Bio-Based),50,9.5,0.19,2.3,1.6,172.19,CCCNC(=O)OCCO
+Polyesteramide (PEA),55,9.6,0.22,2.7,1.65,188.22,NCCCCNC(=O)O
+Polyethylene (PE),40,8.7,0.1,1.12,1.49,28.05,CC
+Polypropylene (PP),35,8.5,0.12,1.55,1.48,42.08,CCC
+Polyethylene Terephthalate (PET),60,10,0.3,2.48,1.65,192.17,O=C(O)Cc1ccccc1C(=O)O
+Polystyrene (PS),35,8.6,0.22,2.5,1.59,104.15,Cc1ccccc1
+Polyvinyl Chloride (PVC),50,8.5,0.2,1.1,1.52,62.5,CCCl
+Polycarbonate (PC),60,9.8,0.25,1.8,1.59,176.13,c1ccc2c(c1)OCCO2
+Polyamide (Nylon-6),50,9.5,0.15,1.3,1.53,113.16,CCCCC(=O)CN
+EVOH (Ethylene Vinyl Alcohol),45,9.2,0.18,1.2,1.48,44.1,CCO
+Polyethylene Furanoate (PEF),65,10.1,0.32,2.8,1.64,194.18,O=C(O)c1ccccc1C(=O)OCCO
+Polyvinylidene Chloride (PVDC),55,10,0.3,2.1,1.63,102,CC(C)Cl
+Chitosan-Based Polymer,35,8.8,0.16,-0.5,1.47,161.16,CCNCC(=O)O
+Polytrimethylene Terephthalate (PTT),55,9.8,0.28,2.4,1.62,198.2,CCCOC(=O)c1ccccc1C(=O)O
+Polyacrylonitrile (PAN),65,10.2,0.32,1.56,1.53,53,CC#N
+Polybutylene Terephthalate (PBT),60,9.9,0.26,2.3,1.63,192.17,CCCCCOC(=O)c1ccccc1C(=O)O
+Meta-Aramid (Nomex),80,10.5,0.22,1.9,1.64,134.15,NCc1ccc(C(N)=O)cc1
+Para-Aramid (Kevlar),120,10.8,0.3,2.1,1.65,151.16,NCc1ccc(C(=O)Nc2ccccc2)cc1
+Polybenzimidazole (PBI),110,10.7,0.25,2.5,1.68,143.12,c1ccc2[nH]cnc2c1
+Polyether Ether Ketone (PEEK),90,9.7,0.24,2.7,1.65,238.21,O=C1C=CC=C(OCc2ccccc2)C1
+Polydioxanone (PDO),50,9.2,0.18,1.3,1.54,132.1,O=C(O)OCCO
+Polyhydroxybutyrate (PHB),40,8.9,0.16,0.9,1.57,86.1,CCOC(=O)CC
+Polyether Block Amide (PEBA),70,9.6,0.2,1.8,1.59,218.12,CCNC(=O)OCCO
+Polyphenylene Sulfide (PPS),75,9.8,0.28,2.4,1.63,174.2,O=C(O)C1=CC=CSC=C1
+Polysulfonamide (PSA),85,10.4,0.25,1.5,1.6,165.18,CCNS(=O)OCCO
+Polyurethane Elastomers (Spandex/Lycra),25,8.6,0.14,2.1,1.52,180.1,CCCCOC(=O)NCCC
+Polyaniline (PANI),30,9.5,0.18,1.75,1.58,98.13,Nc1ccccc1
+Polypyrrole (PPy),45,9.3,0.2,1.7,1.59,80.12,c1ccncc1
+Cellulose Acetate (CA),35,8.5,0.12,0.8,1.5,162.14,CCOCC(=O)O
+Cupro (Cuprammonium Rayon),33,8.7,0.1,0.6,1.49,160.14,O=C(O)CO
+Sericin-Based Polymer,20,8.2,0.08,-0.4,1.45,150.1,CCC(N)=O
+Polymethylpentene (PMP),25,8.9,0.16,2.5,1.46,140.21,CCC(C)C
+Polytetrafluoroethylene (PTFE - Teflon),20,9.8,0.3,2.7,1.35,100.02,FC(F)C(F)F
+Polyetherimide (PEI),90,10.4,0.25,2.8,1.66,192.2,O=c1oc2ccccc2n1-c1ccccc1
+Polyvinyl Butyral (PVB),30,8.7,0.18,1.9,1.48,98.12,OCCO
+Polyisocyanurate (PIR),35,9.6,0.21,2.1,1.57,140.12,CNC(=O)O
+Polychloroprene (Neoprene),50,9.3,0.2,2.4,1.52,88.54,O=Cc1ccccc1
+Ethylene Vinyl Acetate (EVA),40,8.5,0.14,2.2,1.47,112.15,CCOC(C)O
+Polycaprolactone (PCL),45,8.9,0.17,1.8,1.46,130.17,CCCCCCOC=O
+Polystyrene-Butadiene-Styrene (SBS),38,8.8,0.15,2.3,1.55,140.21,CCc1ccccc1
+Polyphenylene Oxide (PPO),70,9.5,0.19,2.5,1.59,150.16,c1ccc(Oc2ccccc2)cc1
+Polyamide-Imide (PAI),95,10.7,0.28,2.9,1.67,180.14,O=C(O)Nc1ccccc1
+Polyvinyl Ether (PVE),25,8.3,0.11,1.7,1.45,120.1,CCOCC
+Ultra-High Molecular Weight Polyethylene (UHMWPE),110,8.1,0.09,2.2,1.48,250.3,CCCCC
+Chlorinated Polyvinyl Chloride (CPVC),50,9.4,0.22,2.1,1.5,124.96,ClCCCl
+Polypropylene Carbonate (PPC),33,9.1,0.16,1.9,1.46,118.12,CCCCOC(=O)O
+Polyphenylene Sulfide (PPS),90,9.2,0.22,2.6,1.65,156.2,SC1=CC=CC=CS1
+Polycarbonate-ABS (PC-ABS),65,9.1,0.19,2.4,1.58,140.21,CCOC(=O)c1ccccc1
+Liquid Crystal Polymer (LCP),95,9.8,0.3,2.75,1.69,248.14,OC1=CC=CC=CCO1
+Fluoroelastomers (FKM),30,10.1,0.28,3,1.44,130.2,CCC(F)F
+Ethylene Propylene Diene Monomer (EPDM),20,8.5,0.12,1.8,1.48,112.2,c1ccccc1
+Polyamide 12 (PA12),50,9.4,0.21,2.1,1.54,168.3,CCCCCCCCCCC(N)C=O
+Polyketone (PK),60,9.5,0.2,2.4,1.56,180.18,CC(=O)CO
+Thermoplastic Olefins (TPOs),30,8.4,0.14,2.1,1.5,125.1,Oc1ccccc1
+Aliphatic Polyketone (APK),70,9.3,0.19,2.6,1.58,182.16,CCC(=O)COC
+Polyamide 46 (PA46),85,10,0.27,2.7,1.61,170.18,CCCCCCC(N)C=O
+Polyetherketoneketone (PEKK),110,10.2,0.3,2.85,1.68,280.3,O=c1cccc(OCCO)cc1
+"Poly(3,4-ethylenedioxythiophene) (PEDOT)",30,8,0.4,2.5,1.6,142.18,OCCOc1cccs1
+Poly(phenylene vinylene) (PPV),50,8.2,0.33,2.4,1.57,160.25,C=Cc1ccccc1
+Poly(3-hexylthiophene) (P3HT),40,7.9,0.38,2.7,1.58,198.32,CCCCCCc1ccsc1
+Poly(arylene ether) (PAE),80,9.2,0.27,2.8,1.65,200.26,OCCOc1ccccc1
+Poly(benzimidazole) (PBI),120,10,0.32,2.9,1.7,170.18,c1ccc2ncncc2c1
+Cyclic Olefin Copolymer (COC),65,8.5,0.25,2.2,1.52,150.22,C=CC1C=CC=C1
+Perfluoroalkoxy (PFA),35,10.5,0.36,3.2,1.34,120,CCOC(F)F
+Polyacetylene (PA),10,7.5,0.42,2.1,1.5,98.1,C=CC=C
+Polycaprolactone (PCL),45,8.3,0.15,1.03,1.46,130.17,CCCCCCCCC=O
+Polyglycolic Acid (PGA),60,8.5,0.12,0.92,1.48,75.06,O=CC(O)CO
+Polylactic Acid (PLA),50,8.2,0.18,0.97,1.45,90.08,CC(C)C(=O)O
+Polyhydroxyalkanoates (PHA),40,8,0.14,1.02,1.47,110.12,O=C(O)CCCO
+Poly(î-caprolactone-co-lactide),48,8.4,0.17,1.1,1.49,150.25,CCOC(C)=O
+Poly(L-lactide-co-glycolide) (PLGA),55,8.3,0.15,1.02,1.47,150.1,CCOC(=O)C(O)CO
+Polyacrylamide (PAAm),25,9.4,0.26,1,1.5,71.08,CCNC(C)=O
+Acrylonitrile Butadiene Styrene (ABS),60,9.2,0.28,2.5,1.57,220.25,CC(C)(C)C
+Polymethyl Methacrylate (PMMA),70,9.1,0.22,1.1,1.49,100.12,O=C(O)c1ccccc1
+Polyoxymethylene (POM),110,9.5,0.42,1.88,1.54,30.08,C=O
+Polyisoprene (PI),20,8.3,0.1,2.1,1.52,68.11,CC=CC
+Polybutadiene (PBD),15,8.1,0.08,2.2,1.51,54.09,C=CC
+Styrene-Butadiene Rubber (SBR),25,8.4,0.15,2,1.53,102.14,CC=Cc1ccccc1
+Chlorinated Polyethylene (CPE),48,8.9,0.16,1.28,1.48,98.1,CCCCl
+Fluorinated Ethylene Propylene (FEP),35,10.2,0.4,2.8,1.34,100.12,CC(F)F
+Polyimide (PI),100,9.8,0.28,2.75,1.65,188.22,O=C1NC(=O)C2C=CC=CC12
+Polybenzimidazole (PBI),105,9.7,0.3,2.8,1.68,250.3,O=c1[nH]c(=O)c2ccccc2[nH]1
+High-Performance Epoxy (HPE),90,9.4,0.25,2.4,1.6,280.3,OCCOc1cccc(O)c1
+Fluoroelastomers (FKM - Viton?),20,10.5,0.42,3.1,1.38,180.14,CC(F)(F)C(F)F
+Polylactic Acid (PLA),50,10.2,0.4,0.9,1.45,72.06,CC(=O)O
+Polybutylene Succinate (PBS),45,9.5,0.3,1.2,1.49,130.12,CCC(=O)CC(=O)O
+Polycaprolactone (PCL),20,8.9,0.22,1.35,1.47,114.14,O=C1CCCCC1O
+Thermoplastic Starch (TPS),10,8.4,0.15,0.5,1.42,162.14,O=c1cc(O)cco1
+Polybutylene Adipate Terephthalate (PBAT),38,9.4,0.26,1.15,1.5,120.1,CC(O)C(=O)O
+Polyethylene Oxide (PEO),25,9,0.2,0.7,1.46,44.05,CCOCCO
+Polyvinylidene Fluoride (PVDF),60,10.5,0.4,3.2,1.42,116.11,FCCF
+"Bio-Based Polyamides (Nylon-11, Nylon-6,10)",70,9.8,0.3,2,1.54,180.22,NCCCCCCCCCC(N)=O
+Alginic Acid-Based Polymers,20,8.3,0.1,0.6,1.44,160.1,O=c1cccco1
+"Poly(3,4-ethylenedioxythiophene) (PEDOT)",80,8.5,3,1.8,1.6,142.18,OCCOc1ccsc1
+Poly(phenylene vinylene) (PPV),60,9.2,2.8,2.1,1.65,168.18,C(=Cc1ccccc1)c1ccccc1
+Poly(3-hexylthiophene) (P3HT),50,9.1,2.5,3.5,1.62,222.38,CCCCCCC1=CC=CC=[SH]1
+Poly(fluorene) (PF),75,8.7,2.7,3.2,1.72,218.29,c1ccc2ccccc2c1
+Poly(N-vinylcarbazole) (PVK),65,9.4,2.9,2.9,1.64,221.27,c1ccc2c(c1)[nH]c1ccccc12
+Nafion? (Perfluorosulfonic Acid Polymer),20,10.8,3.1,4.2,1.34,120.05,O=S(=O)(O)C(F)(F)C(F)F
+Poly(acrylonitrile) (PAN - Energy Grade),50,9.5,3.2,1.9,1.52,53.06,C=CC#N
+Poly(vinylidene fluoride-co-hexafluoropropylene) (PVDF-HFP),40,10.5,3,3.3,1.42,116.11,FCC(F)C(F)(F)C(F)F
+Poly(ethylene glycol) dimethacrylate (PEGDMA),15,8.8,0.18,0.4,1.48,114.1,CCOCCOCCOCCO
+Poly(triarylamine) (PTAA),70,9.6,2.6,3,1.66,310.35,c1ccc2c(c1)Nc1ccccc1N2
+Poly(diphenylbutadiyne) (PDPB),90,8.9,2.4,2.8,1.63,226.25,C1=CC=CC=CC=CC=CC=C1
+Acrylonitrile Butadiene Styrene (ABS),40,9.2,0.9,2.1,1.55,102.13,N#CC=Cc1ccccc1
+Polyethylene Terephthalate Glycol (PETG),55,9.8,0.5,2.2,1.58,250.32,O=CC1=CC=CC=CC1OCCO
+Thermoplastic Polyurethane (TPU - 3D Printing Grade),30,9.5,0.35,2,1.52,195.23,COC(=O)NCCO
+Polyetherimide (PEI - Ultem),95,9.9,0.6,2.4,1.66,310.32,O=C1N=C2CC3=CC=CC=CC=C3N=C2C(=O)N1
+Polycarbonate (PC - 3D Printing Grade),70,9.7,0.55,2.3,1.58,254.3,O=C1OCC1c1ccccc1
+High Impact Polystyrene (HIPS),35,9.1,0.8,2.5,1.59,104.15,CC(C)c1ccccc1
+Polypropylene (PP - 3D Printing Grade),35,8.9,0.2,3.1,1.49,42.08,CC(C)C
+Polyetherketoneketone (PEKK),95,10.1,0.55,2.7,1.66,250.28,O=C(O)CC(=O)c1ccccc1
+Polyether Ether Ketone (PEEK - 3D Printing Grade),100,10.2,0.5,2.5,1.67,238.3,O=C1C=CC(=O)C=C1
+Liquid Crystal Polymer (LCP),90,9.8,0.45,2.9,1.68,200.25,C=CC(C=C)=Cc1ccccc1
+Epoxy-Based Photopolymer Resins,60,9.3,0.4,1.8,1.55,250.26,CCOc1ccccc1
+Polyamide-imide (PAI - Torlon),120,10.5,0.5,2.6,1.7,270.33,O=C1NC(=O)c2ccccc2C1=O
+Acrylate-Based UV Resins,55,9,0.35,1.2,1.5,200.18,C=C(C)C(=O)OCC
+Aramid Fiber (Kevlar - High-Strength),3000,9.7,0.6,2.7,1.63,238.3,NC=CC(=O)Nc1ccccc1
+Polybutadiene (PB - High Impact Sports),25,9.4,0.5,3,1.52,54.09,C=CC=CC=CC
+Alkyd Resins,25,9,0.2,2.5,1.52,675.12,CC(C)OCC=O
+Waterborne Acrylics (Emulsion Polymers),35,9.4,0.45,1.2,1.5,110.22,O=CCOCCO
+Melamine-Formaldehyde Resins,100,9.6,0.5,2.1,1.65,225.69,O=CC1N=CN=CN1
+Polyvinyl Butyral (PVB - Coatings & Laminates),30,9.3,0.4,1.5,1.48,98.12,CCOC1CCCCO1
+Cyanoacrylate (Super Glue),45,9.8,0.55,0.5,1.46,111.1,C=COC(C)=O
+Poly(34-ethylenedioxythiophene) (PEDOT),80,8.5,3,1.8,1.6,142.18,OCCOc1ccsc1
+Poly(ɛ-caprolactone) (PCL),45,8.3,0.15,1.03,1.46,130.17,CCCCCCCCC=O
+Polylactic Acid (PLA - Medical Grade),50,8.2,0.18,0.97,1.45,90.08,CC(C)C(=O)O
+Polyhydroxyalkanoates (PHA - Medical Grade),40,8,0.14,1.02,1.47,110.12,O=C(O)CCCO
+Poly(ɛ-caprolactone-co-lactide),48,8.4,0.17,1.1,1.49,150.25,CCOC(C)=O
+Polyimide (PI - Kapton),100,9.8,0.28,2.75,1.65,188.22,O=C1NC(=O)C2C=CC=CC12
+Polybenzimidazole (PBI - Fiberlux),105,9.7,0.3,2.8,1.68,250.3,O=c1[nH]c(=O)c2ccccc2[nH]1
+Bio-Based Polyamides (Nylon-11 Nylon-610),70,9.8,0.3,2,1.45,180.22,NCCCCCCCCCC(N)=O
+Nafion (Perfluorosulfonic Acid Polymer),20,10.8,3.1,4.2,1.34,120.05,O=S(=O)(O)C(F)(F)C(F)F
+Poly(diphenylbutadiyne) (PDPB),90,8.9,2.4,2.2,1.63,226.25,C1=CC=CC=CC=CC=CC=C1
+Acrylonitrile Butadiene Styrene (ABS - 3D Printing),40,9.2,0.9,2.1,1.55,102.13,N#CC=Cc1ccccc1
+Polyetherketoneketone (PEKK - 3D Printing Grade),95,10.1,0.55,2.7,1.66,250.28,O=C(O)CC(=O)c1ccccc1
+Liquid Crystal Polymer (LCP - 3D Printing Grade),90,9.8,0.45,2.9,1.68,200.25,C=CC(C=C)=Cc1ccccc1
+Polydimethylsiloxane (PDMS),5,8.5,0.1,3,1.4,74.15,C[Si](C)(O)
+Polysiloxane,10,8.5,0.1,2.8,1.4,74.15,C[Si](C)(O)
+Polyphosphazene,30,9,0.15,1.2,1.5,100,N#P#N
+Polyamide (Nylon-66),80,9.5,0.25,1.5,1.56,226.316,O=C(O)CCCCCCCCC(N)C=O
+Polyamide (Nylon-612),75,9.5,0.25,1.5,1.55,310.472,O=C(O)CCCCCCCCCC(N)C=O
+Polyamide (Nylon-46),70,9.5,0.25,1.5,1.54,198.264,O=C(O)CCCC(N)C=O
+Polyethylene (LDPE),20,8.7,0.1,1.1,1.49,28.05,CC
+Polyethylene (HDPE),30,8.8,0.1,1.2,1.5,28.05,CC
+Polychlorotrifluoroethylene (PCTFE),50,10,0.3,2.1,1.44,116.45,FC(F)(F)CCl
+Phenol-Formaldehyde (Bakelite),70,9.5,0.2,1,1.65,108,Oc1ccccc1COC2=CC=CC=C2O
+Polybenzoxazole (PBO),3000,10.8,0.3,2.7,1.65,238.3,C1=CC=CC=C1C2=NC=NC=C2
+Polybenzothiazole,1500,10.8,0.25,2.5,1.65,232.25,C1=CC=CC=C1C2=NC=CS=C2
+Polyvinyl Acetate (PVAc),40,8.8,0.18,0.5,1.47,86.13,CC(=O)O
+Polyvinylpyrrolidone (PVP),30,9,0.2,-0.5,1.49,111.14,C1=CC=CC=C1N(C2=CC=CC=C2)C3=CC=CC=C3
+Polyethyleneimine (PEI),30,9.2,0.2,0,1.48,43.07,C(CN)N
+Polyethersulfone (PES),70,9.8,0.2,1.3,1.63,272.32,O=C1C2=CC=CC=C2OC3=CC=CC=C3S1(=O)(=O)
+Polysulfone (PSU),75,9.7,0.22,1.5,1.65,220.26,O=C1C2=CC=CC=C2S(=O)(=O)N1
+Polyetherketone (PEK),90,9.6,0.24,1.7,1.65,288.33,O=C(OCc1ccccc1)C2=CC=CC=C2
+Poly(methyl acrylate),20,8.5,0.12,0.8,1.45,86.13,C=CC(=O)OC
+Poly(ethyl acrylate),15,8.4,0.1,0.7,1.45,100.16,C=CC(=O)OCC
+Poly(butyl acrylate),10,8.3,0.09,1,1.46,128.17,C=CC(=O)OCCC
+Poly(acrylic acid),25,8.6,0.3,-0.5,1.45,72.06,C=CC(=O)O
+Poly(maleic anhydride),30,8.8,0.2,0.5,1.45,98.06,O=C1OC(=O)C=C1
+Poly(chloroprene),30,9.3,0.2,2.4,1.52,85.53,C=CC(Cl)=CCl
+Poly(sulfur),20,10.5,0.4,3,1.5,32.07,SS
+Poly(isobutylene),20,8.6,0.14,2.5,1.49,56.1,CC(C)(C)C
+Poly(allyl chloride),30,9,0.25,1.8,1.5,78.5,C=CC(Cl)C
+Poly(allyl alcohol),30,9.2,0.3,0.4,1.49,72.09,C=CCO
+Poly(allylamine),25,9.4,0.3,-0.2,1.47,57.1,C=CCN
+Poly(ethylene glycol dimethacrylate),15,9,0.18,0.2,1.48,198.34,CCOCCOCCOCCO
+Poly(trimethylolpropane triacrylate),10,8.8,0.18,0.1,1.48,296.32,CCOCC=C(C)C(=O)OCCO
+Poly(methyl vinyl ether),30,8.7,0.15,1,1.45,72.11,C=CCOC
+Poly(ethyl vinyl ether),30,8.8,0.15,1.2,1.46,86.13,C=CCOCC
+Poly(ethylene glycol),35,8.6,0.2,0,1.45,62.07,C(CO)OCCO
+Poly(propylene glycol),35,8.5,0.18,0.3,1.46,76.1,COCC(C)O
+Poly(divinylbenzene),40,9.3,0.22,3,1.6,130.19,C1=CC=CC=C1C=C2C=CC=CC=C2
+Poly(butadiene sulfone),25,9.4,0.2,2.5,1.5,84.13,C=CCS(=O)(=O)C=C
+Poly(vinyl fluoride) (PVF),45,10.5,0.35,2.8,1.42,62.5,CF=CF
+Polysiloxane (silicone rubber),10,8.5,0.1,2.8,1.4,74.15,C[Si](C)(O)
+Polymethacrylonitrile,50,9.6,0.28,2.3,1.53,69.09,C(=C(C#N))C=CC
+Poly(urethane) (general),25,9,0.2,2,1.52,180.25,CCCC(=O)N
+Polysulfide (Thiokol),20,9.4,0.2,1.5,1.5,106.17,CSSC
+Polyacrylonitrile-co-butadiene-styrene (ABS),60,9.2,0.28,2.5,1.57,220.25,CC(C)(C)C
+Polyamide 66 (PA66),80,9.5,0.25,1.5,1.56,226.316,O=C(O)CCCCCCCCC(N)C=O
+Polybenzoxazole (alternate),3000,10.8,0.3,2.7,1.65,304.3,c1ccc2ncoc2c1
+Poly(p-phenylene sulfide),75,9.8,0.28,2.4,1.63,174.2,O=C(O)C1=CC=CSC=C1
+Polyethylene naphtalate (PEN),55,10,0.28,2.5,1.65,222.23,O=C(O)c1ccccc1C(=O)Oc2ccccc2
+Poly(butylene),15,8.1,0.08,2.2,1.51,56.1,CCC(C)C
+Polymethyl acrylate (PMA),20,8.5,0.12,0.8,1.45,86.13,C=CC(=O)OC
+Polysilazane,15,8,0.1,1,1.45,124.13,C=NSi(=NH)CH3
+Polydichlorovinylsilane,25,9,0.2,2,1.45,96.56,ClC=SiCl
+Polysulfide rubber (Thiokol),20,9.4,0.2,1.5,1.5,106.17,CSSC
+Polybutene (PB),15,8.4,0.08,2.2,1.51,56.1,CC(C)CC
+Polytetrahydrofuran (PTHF),30,8.7,0.18,0.5,1.48,72.11,CCCCO
+Polyalpha-methylstyrene (PAMS),45,9.6,0.28,2.1,1.59,118.17,CC1=CC=CC=C1C=CC
+Poly(26-dimethyl-14-phenylene oxide) (PPO),70,9.5,0.19,2.5,1.59,150.16,c1ccc(Oc2ccccc2)cc1
+Poly(bisphenol A carbonate),60,9.9,0.26,2.3,1.63,254.3,CC(=O)Oc1ccccc1C2=CC=CC=C2O
+Polycyclohexylidene,30,8.6,0.15,0.5,1.45,150.19,C1CCC(CC1)=C2CCCC(CC2)
+Polyethyleneimine (PEI) Hydrochloride,30,9.2,0.2,-0.5,1.48,43.07,C(CN)N.Cl
+Polyphthalamide (PPA),85,10.2,0.3,2.8,1.66,300.4,O=C(NCC1CCCCC1)C2=CC=CC=C2
+Polyacetaldehyde,5,8.7,0.08,2.8,1.47,58.08,C(=O)C
+Poly(dimethylaminoethyl methacrylate),20,8.8,0.16,0.8,1.45,157.21,C=C(C)C(=O)OCCN(C)C
+Polysaccharide (Alginate Sodium Salt),20,8.2,0.1,-1.5,1.44,160.11,C1[C@@H]([C@@H](COC(=O)O)O)O
+Polyurethane (PU) Fiber,25,9,0.2,2,1.52,180.25,CCCCOC(=O)NCCC
+Polyaspartic acid,30,9,0.25,0.8,1.5,132.12,C(=O)NCC(CC(=O)O)C(=O)O
+Polyanhydride (SBA/SA),15,8.5,0.12,0.5,1.45,200.21,C(=O)OCC(=O)O
+Polyglutarimide,40,9,0.2,1.4,1.5,143.17,OC(=O)C(N)CCCCC(=O)O
+Poly(para-phenylene) (PPP),120,10.8,0.3,2.1,1.65,114.14,c1ccccc1
+Poly(benzobisoxazole) (PBO),3000,10.8,0.32,3.1,1.68,304.3,c1ccc2ncoc2c1
+Poly(benzobisthiazole) (PBT),2000,10.8,0.32,3.1,1.68,320.4,c1ccc2ncsc2c1
+Polyethyleneimine (PEI) (Linear),30,9.2,0.2,0,1.48,56.1,C(CN)NCCN
+Polyurethane (PU) (Cast Elastomer),25,9,0.2,2,1.52,180.25,CCCCOC(=O)NCCC
+Poly(oxymethylene) (POM - Acetal),110,9.5,0.42,1.88,1.54,30.08,C=O
+Cyclic Olefin Polymer (COP),65,8.5,0.25,2.2,1.52,150.22,C=CC1C=CC=C1
+Polyaldehyde (paraformaldehyde),5,10.5,0.25,0.2,1.5,30.03,C(C=O)O
+Cellulose Nitrate (Nitrocellulose),50,9.7,0.25,-0.5,1.5,364.31,OC(=O)C1CC2CC(OC(=O)C)CC1
+Polydichlorophosphazene,30,10,0.15,-0.5,1.5,201.9,N#PCl
+Poly(vinyl chloride-co-vinyl acetate),35,8.7,0.18,1.4,1.5,80.49,CC(Cl)=C
+Polyarylene ether nitrile (PEN),80,10,0.25,2.5,1.65,250.3,O=C1C=CC=CC=C1C2=CC=CC=C2O
+Polyether sulfone (PES) (Alternate),70,9.8,0.2,1.3,1.63,272.32,O=C1C2=CC=CC=C2S(=O)(=O)C3=CC=CC=C13
+Poly(quinoline-para-phenylene),90,10.7,0.3,3,1.68,325.42,c1cc2cncc(C=C)c2cc1
+Polyacetylene (Doped),150,8,0.5,2.1,1.5,42.08,C=C
+Polyalkylene oxide (PAO),35,8.4,0.15,-0.5,1.45,60.06,C[O]C
+Poly(glutamic acid),25,9,0.4,0.1,1.5,147.13,NC(CCC(=O)O)C(=O)O
+Polyamide 11 (PA11),50,9.4,0.21,2.1,1.54,171.27,CCCCCCCCCN
+Poly(aryl ether ketone) (PAEK),90,9.6,0.24,2.5,1.65,238.3,O=C1C=CC=C(OC=C1)C2=CC=CC=C2O
+Polybutadiene rubber (PBR),15,8.1,0.08,2.2,1.51,54.09,C=CC
+Polysiloxane (Dimethylsiloxane),10,8.5,0.1,2.8,1.4,74.15,C[Si](C)(O)
+Polythiophene,50,8,0.38,1.8,1.58,96.18,c1ccsc1
+Polyformaldehyde (POM - Acetal),110,9.5,0.42,1.88,1.54,30.08,C=O
+Polydivinylbenzene,40,9.3,0.22,3,1.6,132.2,C1=CC=C(C=C1)C=CC=C2C=CC=CC2=C1
+Polysulfone (alternate),75,9.7,0.22,1.5,1.65,220.26,O=C1C2=CC=CC=C2S(=O)(=O)N1
+Poly(thiophene-25-diyl),50,8,0.38,1.8,1.58,82.116,c1ccsc1
+Polysaccharide (Xanthan Gum),5,8,0.12,-2.5,1.33,104.12,C1OC(=O)C2OC(C(O)C1O)C(O)C(OC3OC(=O)C(O)C(C4=COC(=O)C(O)C=C4OC(=O)CC(C)O)C(O)C3O)C(O)C2O
+Polyaspartate Ester,30,9,0.3,0.8,1.5,180.25,CC(N)C(=O)OCC(O)CC(N)C(=O)O
+Poly(acrolein),5,7.5,0.25,0.5,1.47,56.08,C=CC=O
+Polyolefin (n-Butene),15,8.1,0.08,2.2,1.51,56.1,CCC=CC
+Polysilane,20,10,0.3,2,1.45,74.21,Si
+Poly(o-toluidine),45,9.2,0.18,2.1,1.57,107.15,Cc1ccccc1N
+Poly(methyl vinyl ether-alt-maleic anhydride),20,8.8,0.16,1,1.45,172.17,CC1=CC=CC=C1C(=O)O
+Poly(2-chlorophosphazene),30,10,0.15,0.5,1.5,153.45,N#PCl
+Polyform (Paraformaldehyde),5,10.5,0.25,0.2,1.5,30.03,C(C=O)O
+Poly(propylene oxide) (PPO),30,8.4,0.12,0.5,1.46,58.12,CCCO
+Polythioether,25,9,0.2,1.5,1.5,106.17,CSSC
+Polyester (UTP),60,9.9,0.26,2.3,1.63,192.17,CCCCCOC(=O)c1ccccc1C(=O)O
+Poly(imide-benzenesulfide) (PIBS),95,10.7,0.28,2.9,1.67,300.33,O=C1NC(=O)c2ccccc2C1=O
+Perylene Diimide Polymer,80,9.4,0.5,3,1.65,386.37,C1=CC=C2C=CC3=C(C=CC4=C3C=CC(=C4OC)C(=O)N2C)C=CC=C1
+Poly(pentamethylacrylate),20,8.5,0.12,1,1.46,130.18,C=C(C)(C)C(=O)OC
+Poly(tert-butyl acrylate),15,8.4,0.12,1,1.46,144.21,C=C(C)C(=O)OCC
+Poly(ethyleneimine) (branched),30,9.2,0.2,0,1.48,130.22,C(CN)NCCN(CC)CCN
+Polyalkylene oxide (PAO),35,8.4,0.14,0.5,1.45,88.11,C1OCCO1
+Fluoroelastomer (Viton),20,10.5,0.42,3.1,1.38,180.14,CC(F)(F)C(F)F
+Fluoropolymer (FEP - Non-stick),35,10.2,0.4,2.8,1.34,100.12,CC(F)F
+Fluoropolymer (ETFE),35,10.2,0.4,2.8,1.34,100.12,CC(F)F
+Fluoroelastomer (Perfluoroelastomer),20,10.8,0.6,3.1,1.38,250.3,CF2CF3
+Fluoropolymer (C-F copolymer),40,10.2,0.42,3.1,1.42,122.12,CC(F)(F)C(F)F
+Poly(ethylene oxide) (PEO) - Copolymer,35,8.6,0.15,0,1.48,100.1,OCCOCCO
+Poly(ethyleneimine) (PEI) - Coating,30,9.2,0.2,0,1.48,56.1,C(CN)N
+Poly(ethylene glycol) dimethacrylate (UV Resin),15,8.8,0.18,0.4,1.48,114.1,CCOCCOCCOCCO
+Poly(triethylene glycol) dimethacrylate,15,8.8,0.18,0.4,1.48,188.27,CCOCCOCCOCCO
+Poly(polyethylene glycol) diacrylate,15,8.8,0.18,0.4,1.48,200.18,CCOCCOCCOCCO
+Poly(ethylene glycol) acrylate,15,8.8,0.18,0.4,1.48,114.1,CCOCCOCCO
+Poly(trimethylolpropane triacrylate) (UV),10,8.8,0.18,0.4,1.48,296.32,CCOCC=C(C)C(=O)OCCO
+Poly(ethylene glycol) diacrylate,15,8.8,0.18,0.4,1.48,188.27,CCOCCOCCOCCO
+Polyurethane (PU) (Thermoplastic),25,9,0.2,2,1.52,180.25,CCCCOC(=O)NCCC
+Polyurethane (PU) (Rigid Foam),25,9,0.2,2,1.52,180.25,CCCCOC(=O)NCCC
+Polyester (Melange),60,9.9,0.26,2.3,1.63,192.17,CCCCCOC(=O)c1ccccc1C(=O)O
+Polyester (PET) - Regrind,60,10,0.3,2.48,1.65,192.17,O=C(O)Cc1ccccc1C(=O)O
+Polybutylene (PB-1),20,8.1,0.08,2.2,1.51,56.1,CC(C)C
+Nylon-66 (PA66),80,9.5,0.25,1.5,1.56,226.316,O=C(O)CCCCCCCCC(N)C=O
+Polystyrene (PS - HIPS),35,9.1,0.8,2.5,1.59,104.15,CC(C)c1ccccc1
